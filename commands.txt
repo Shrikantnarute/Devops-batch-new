@@ -3,3 +3,11 @@ git status
 git log
 git add filename
 git commit -m "enter message"
+git remote -v
+git push
+git pull
+git fetch
+
+git config --global user.name
+git config --global user.email
+
