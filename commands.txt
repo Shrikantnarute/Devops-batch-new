@@ -11,3 +11,7 @@ git fetch
 git config --global user.name
 git config --global user.email
 
+git branch
+git checkout -b dev
+
+
